@@ -1,0 +1,24 @@
+.signup-class
+{
+    width:50%;
+    padding:10px;
+    border:1px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+.form-field
+{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.signbtn
+{
+    width:100px;
+    padding: 2 2 2 2;
+    height:30px;
+    border-radius: 10px;
+    background-color: rgb(101, 101, 234);
+    
+}

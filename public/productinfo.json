@@ -1,0 +1,31 @@
+[
+    {
+       "id":"1",
+        "productimg":"https://rukminim1.flixcart.com/image/128/128/ku2zjww0/t-shirt/u/u/j/m-a1366-0000-levi-s-original-imag7a82e6fkstgz.jpeg?q=70",
+        "brand":"Van Heusen Athleisure,Men's Solid Regular Fit T-Shirt",
+        "Likes":"120",
+        "cost":"1325"
+    },
+    {
+        "id":"2",
+        "productimg":"https://rukminim1.flixcart.com/image/612/612/kiew3gw0/jacket/h/f/c/m-usjckon0025-u-s-polo-assn-original-imafy6g35qyyhhmc.jpeg?q=70",
+        "brand":"Veirdo Men Solid Casual Jacket",
+        "Likes":"180",
+        "cost":"1000"
+    },
+    {
+        "id":"3",
+        "productimg":"https://m.media-amazon.com/images/I/61Ikn0SD7RL._UL1500_.jpg",
+        "brand":"Dennis Lingo Men's Solid Slim Fit Cotton Casual Shirt with Spread Collar & Full Sleeves",
+        "Likes":"400",
+        "cost":"1680"
+    },
+    {
+        "id":"4",
+        "productimg":"https://m.media-amazon.com/images/I/81wU3NTXb8L._UY879_.jpg",
+        "brand":"Parx Men's Checkered Slim Fit Casual Shirt",
+        "Likes":"400",
+        "cost":"1500"
+    }
+
+]

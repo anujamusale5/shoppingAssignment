@@ -1,0 +1,75 @@
+.main-box
+{
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    margin: 2px;
+    justify-content: space-between;
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+  
+}
+.signupbox
+{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.text
+{
+    font-size: larger;
+    font-weight: 300;
+    margin-top: 30px;
+}
+.textcontent
+{
+    color: blue;
+}
+.login-box
+{
+    border: 1px solid;
+    border-radius:0%;
+    border-color: rgb(102, 101, 101);
+    padding: 2px;
+    margin: 2px;
+    display: flex; 
+    
+}
+.login-drop
+{
+    text-align: start;
+}
+.signup
+{
+    font-size: medium;
+    font-weight: 10;     
+}
+ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+  li 
+  {
+  float:left;
+    
+  } 
+   li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar
+  {
+    display:flex;
+    justify-content: center;
+  }
+
+
+

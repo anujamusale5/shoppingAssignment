@@ -1,0 +1,54 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.content-box
+{
+   
+    /* display: flex; */
+    width:100%; 
+    border:1px; 
+    border-radius: 1px black;
+    border-style: solid;
+    height: auto;
+    /* box-sizing: border-box; */
+   
+}
+.single-product
+{
+   flex: 1;
+   /* border-style: 2px solid  rgb(17, 17, 17); */
+}
+.heart-icon
+{
+    float:right;
+}
+.addbtn
+{
+    color:blue;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(247, 242, 242);
+    border-radius: 1px;
+    
+}
+
+.productdetails
+{
+    display: flex; 
+     flex-direction: column;
+    gap: 10px;
+}
+.primg
+{
+   
+     width:150px;
+    height: 180px;
+   
+}
+.card-img-top
+{
+    width:150px;
+    height: 180px;
+}
